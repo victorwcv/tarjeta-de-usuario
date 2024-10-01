@@ -1,0 +1,13 @@
+:root {
+  --active-color: #2ecc71;
+  --inactive-color: #e74c3c;
+  --card-bg-color: #fff;
+  --text-color: #333;
+  --button-font-size: 1em;
+}
+
+/* Modo oscuro */
+.dark-mode {
+  --card-bg-color: #333;
+  --text-color: #fff;
+}
